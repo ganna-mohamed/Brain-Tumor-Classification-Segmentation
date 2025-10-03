@@ -1,6 +1,7 @@
 # Brain-Tumor-Classification-Segmentation
 
-📌 Overview
+# 📌 Overview
+
 This project aims to assist in the early detection of brain tumors from MRI images using Deep Learning techniques.
 It contains two main parts:
 
@@ -10,20 +11,30 @@ It contains two main parts:
 
 
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Python
+
 TensorFlow / Keras
+
 OpenCV & NumPy
+
 Streamlit (for interactive web app)
 
-📊 Dataset
+# 📊 Dataset
+
 Classification dataset: MRI scans labeled as Tumor / No Tumor.
+
 Segmentation dataset: MRI scans with corresponding tumor masks.
 
 
-🚀 Features
+# 🚀 Features
+
 ✔ Classifies MRI images into Tumor / No Tumor
+
 ✔ Generates segmentation masks to visualize tumor location
+
 ✔ Interactive Streamlit app with image upload & visualization
+
 ✔ Adjustable threshold slider for segmentation results
+
